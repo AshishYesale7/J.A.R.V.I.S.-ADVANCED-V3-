@@ -1,8 +1,5 @@
 # Jarvis Version 3
 
-![Jarvis Version 3 Screenshot](path/to/your/screenshot.png)
-
-
 Jarvis Version 3 is a versatile personal assistant application designed to enhance your productivity by automating common tasks. This version of Jarvis is capable of interacting with multiple websites and applications, performing searches, and managing device functions, making it a powerful tool for daily use.
 
 ## Features
