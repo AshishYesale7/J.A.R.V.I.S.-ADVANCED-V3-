@@ -9,3 +9,4 @@ pywhatkit
 selenium
 open-cv
 scikit-learn
+flask
