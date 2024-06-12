@@ -10,3 +10,4 @@ selenium
 open-cv
 scikit-learn
 flask
+psutil
