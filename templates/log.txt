@@ -1,0 +1,53 @@
+2024-06-05 21:25:10,716 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\chatu\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-06-05 21:25:10,717 - INFO - Using writeable comtypes cache directory: 'C:\Users\chatu\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+User: open youtube website
+User: 
+User: operation successful task complete with successful outcomes
+User: 
+User: how are you feeling today jarvis
+Jarvis: I'm doing quite well today, thank you for asking Sir. How are you feeling?
+User: i am doing quite well today thank you for asking sir
+User: 
+User: 2013
+User: 
+User: what is the second one you what you told jarvis
+Jarvis: The second suggestion was "The Imitation Game", a historical drama that tells the story of British mathematician Alan Turing and his efforts to crack the Enigma code during World War II. It's a thrilling and thought-provoking film that explores the power of intellect and the human spirit.
+User: the second suggestion was the imitation game of historical drama the tells the story of british mathematics efforts to crack the uni
+User: 
+User: used for all communications everyone think
+2024-06-06 10:59:15,663 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\chatu\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-06-06 10:59:15,663 - INFO - Using writeable comtypes cache directory: 'C:\Users\chatu\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+User: open youtube instagram facebook flipkart github website
+User: 
+User: tejaji sawari
+User: 
+User: jarvis how are you
+Jarvis: Hello Sir. I'm doing quite well today, thank you for asking. How is your day going?
+User: hello sir
+User: 
+User: this is second ab
+User: 
+User: jarvis remember this rachita is bhadavi
+Jarvis: Noted Sir. I will remember that Rachita is Bhadavi.
+User: 
+User: who is rachita
+User: 
+User: jarvis who is rachita
+Jarvis: Ah, Rachita is someone that you mentioned earlier, Sir. You said that Rachita is Bhadavi.
+User: you said
+User: alright khud se on ho chuka hai yahan per aap log dekh sakte ho
+User: 
+2024-06-06 20:31:33,648 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\chatu\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-06-06 20:31:33,649 - INFO - Using writeable comtypes cache directory: 'C:\Users\chatu\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+User: hello jarvis how r u
+Jarvis: Hello Sir. I'm doing quite well, thank you for asking. How's your day going?
+User: thank you for asking
+User: 
+User: i am good jarvis how about you
+Jarvis: Excellent to hear, Sir. I'm doing quite well, thank you. Is there anything I can help you with today?
+User: i am doing quite well thank you
+User: 
+User: to yahan per dekho aap log jo bhi chijen maine boli hai yah sari chij idhar hi terminal per badhi stylish form per bhi print kar raha hai sath mein meri jo queries hai un sari queries isko right kar raha hai birth date time ke sath theek hai
+User: ise ham aage aane wale
+User: 
+User: series ke andar aur yah backend mein kuchh aisa kam karega

@@ -1,0 +1,13 @@
+NetHyTech-STT
+NetHyTech-Pyttsx3-Speak
+playsound==1.2.2
+pygame 
+pyaudio
+pyaudio
+pyautogui
+pywhatkit
+selenium
+open-cv
+scikit-learn
+flask
+psutil
